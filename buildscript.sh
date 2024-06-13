@@ -1,5 +1,5 @@
 #!/bin/bash
-#. ~/.nvm/nvm.sh
+. ~/.nvm/nvm.sh
 . ~/.profile
 . ~/.bashrc
 echo " NPM PATH `which npm`"

@@ -1,5 +1,5 @@
 #!/bin/bash
 . ~/.profile
-which npm
+echo `which npm`
 npm install
 npm run build

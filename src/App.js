@@ -31,7 +31,7 @@ function App() {
     <div className="App">
       <section className="menu">
         <div className="title">
-          <h2>our menu</h2>
+          <h2>My Menu</h2>
           <div className="underline"></div>
         </div>
         <div className="btn-container">
